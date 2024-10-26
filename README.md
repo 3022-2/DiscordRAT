@@ -1,3 +1,4 @@
+
 # COMING SOON: DiscordRAT
 	 A program written 100% in python that allows control over a windows computer via a 
 	 discord server. It contains a builder for ease of use to set up.
@@ -25,6 +26,7 @@
 - !exit - Quit the program on the clients end
 ## backend
 - registry persistence
+- runs at startup
 - check if running as admin 
 
 # builder
@@ -53,6 +55,3 @@ fully open source
 ![Screenshot 2024-10-26 015348](https://github.com/user-attachments/assets/335c328d-faac-42e1-be7b-36e5912c63ba)
 # legal
 DISCLAIMER: The code provided in this repository is intended for educational and malware analysis purposes only. Any use of this code for illegal or unethical activities is strictly prohibited. The author of this code shall not be held responsible for any misuse or damage resulting from its use. Users are solely responsible for ensuring compliance with applicable laws and ethical standards.  
-
-# contact
-discord: hyperborean___
